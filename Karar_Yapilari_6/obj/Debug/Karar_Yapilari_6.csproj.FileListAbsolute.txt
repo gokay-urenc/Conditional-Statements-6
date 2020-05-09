@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\bin\Debug\Karar_Yapilari_6.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\bin\Debug\Karar_Yapilari_6.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\bin\Debug\Karar_Yapilari_6.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\obj\Debug\Karar_Yapilari_6.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\obj\Debug\Karar_Yapilari_6.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\obj\Debug\Karar_Yapilari_6.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_6\Karar_Yapilari_6\obj\Debug\Karar_Yapilari_6.pdb
